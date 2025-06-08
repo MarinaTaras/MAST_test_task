@@ -54,3 +54,17 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+.user-page__link {
+  text-decoration: none;
+  align-self: center;
+}
+
+.user-page__button {
+  display: flex;
+  padding: 5px 15px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
